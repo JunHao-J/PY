@@ -1,6 +1,6 @@
 <template>
     <div>
-        <span>分支测试</span>
+        <span>分支测试1</span>
         <span>{{$route.params.name}}</span>
     </div>
 </template>
